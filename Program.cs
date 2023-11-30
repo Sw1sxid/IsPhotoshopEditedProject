@@ -1,7 +1,4 @@
-﻿using GroupDocs.Metadata.Standards.Exif;
-using GroupDocs.Metadata;
-using GroupDocs.Metadata.Formats.Image;
-using System.Drawing;
+﻿using System.Drawing;
 using System.Drawing.Imaging;
 
 class Program
